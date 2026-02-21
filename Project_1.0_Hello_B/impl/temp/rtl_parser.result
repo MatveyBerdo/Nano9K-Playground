@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/home/berdo/FPGA/Blink/fpga_project/src/blink.v",
+  "InstLine" : 1,
+  "InstName" : "blink",
+  "ModuleFile" : "/home/berdo/FPGA/Blink/fpga_project/src/blink.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "blink"
+ }
+]
